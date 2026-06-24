@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0383-ransom-note) |
 ## Counting
 |  |
