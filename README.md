@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2058-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
