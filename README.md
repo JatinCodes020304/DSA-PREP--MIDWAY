@@ -51,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2914-find-the-safest-path-in-a-grid) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
