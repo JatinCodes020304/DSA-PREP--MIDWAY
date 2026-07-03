@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2058-concatenation-of-array](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2058-concatenation-of-array) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3919-network-recovery-pathways](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3919-network-recovery-pathways) |
 ## Simulation
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3919-network-recovery-pathways](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3919-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3919-network-recovery-pathways](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3919-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -63,4 +66,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0110-balanced-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3919-network-recovery-pathways](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3919-network-recovery-pathways) |
+## Graph Theory
+|  |
+| ------- |
+| [3919-network-recovery-pathways](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3919-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3919-network-recovery-pathways](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3919-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3919-network-recovery-pathways](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3919-network-recovery-pathways) |
 <!---LeetCode Topics End-->
