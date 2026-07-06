@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1222-remove-covered-intervals](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1234-number-of-paths-with-max-score) |
 | [2058-concatenation-of-array](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2058-concatenation-of-array) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3919-network-recovery-pathways](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3919-network-recovery-pathways) |
+## Sorting
+|  |
+| ------- |
+| [1222-remove-covered-intervals](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1222-remove-covered-intervals) |
 <!---LeetCode Topics End-->
