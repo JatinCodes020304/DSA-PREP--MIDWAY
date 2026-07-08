@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0007-reverse-integer) |
+| [0172-factorial-trailing-zeroes](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0172-factorial-trailing-zeroes) |
 | [0233-number-of-digit-one](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0233-number-of-digit-one) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
