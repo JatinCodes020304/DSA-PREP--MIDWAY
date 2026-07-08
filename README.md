@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0006-zigzag-conversion) |
 | [0205-isomorphic-strings](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0383-ransom-note) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0007-reverse-integer) |
 | [0233-number-of-digit-one](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0233-number-of-digit-one) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0233-number-of-digit-one) |
+## Prefix Sum
+|  |
+| ------- |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
