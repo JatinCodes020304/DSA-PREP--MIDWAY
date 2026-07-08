@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0007-reverse-integer) |
+| [0233-number-of-digit-one](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0233-number-of-digit-one) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0233-number-of-digit-one) |
 | [1234-number-of-paths-with-max-score](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1234-number-of-paths-with-max-score) |
 | [3919-network-recovery-pathways](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3919-network-recovery-pathways) |
 ## Graph Theory
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1222-remove-covered-intervals](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1222-remove-covered-intervals) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
