@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0383-ransom-note) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1234-number-of-paths-with-max-score](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1234-number-of-paths-with-max-score) |
 | [2058-concatenation-of-array](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2058-concatenation-of-array) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3919-network-recovery-pathways](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3919-network-recovery-pathways) |
 ## Simulation
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3919-network-recovery-pathways](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3919-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3919-network-recovery-pathways](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3919-network-recovery-pathways) |
 ## Topological Sort
 |  |
