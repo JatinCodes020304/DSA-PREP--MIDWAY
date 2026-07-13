@@ -138,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
