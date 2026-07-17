@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0383-ransom-note) |
 | [1256-rank-transform-of-an-array](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1256-rank-transform-of-an-array) |
+| [3583-sorted-gcd-pair-queries](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3583-sorted-gcd-pair-queries) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0383-ransom-note) |
+| [3583-sorted-gcd-pair-queries](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3583-sorted-gcd-pair-queries) |
 ## Array
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1256-rank-transform-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2058-concatenation-of-array) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3583-sorted-gcd-pair-queries](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3583-sorted-gcd-pair-queries) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3919-network-recovery-pathways) |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0007-reverse-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0172-factorial-trailing-zeroes) |
 | [0233-number-of-digit-one](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0233-number-of-digit-one) |
+| [3583-sorted-gcd-pair-queries](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3583-sorted-gcd-pair-queries) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -50,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3583-sorted-gcd-pair-queries](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3583-sorted-gcd-pair-queries) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3919-network-recovery-pathways) |
@@ -126,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3583-sorted-gcd-pair-queries](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3583-sorted-gcd-pair-queries) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
@@ -146,5 +152,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3583-sorted-gcd-pair-queries](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3583-sorted-gcd-pair-queries) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3995-gcd-of-odd-and-even-sums) |
+## Combinatorics
+|  |
+| ------- |
+| [3583-sorted-gcd-pair-queries](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3583-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
