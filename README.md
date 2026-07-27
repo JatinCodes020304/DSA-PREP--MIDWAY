@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0011-container-with-most-water) |
 | [0485-max-consecutive-ones](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0485-max-consecutive-ones) |
 | [1222-remove-covered-intervals](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1234-number-of-paths-with-max-score) |
@@ -148,10 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0011-container-with-most-water) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0011-container-with-most-water) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
