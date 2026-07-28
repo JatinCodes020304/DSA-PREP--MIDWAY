@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2058-concatenation-of-array) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3583-sorted-gcd-pair-queries](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3583-sorted-gcd-pair-queries) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3804-maximize-active-section-with-trade-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1234-number-of-paths-with-max-score](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1234-number-of-paths-with-max-score) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Tree
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [3583-sorted-gcd-pair-queries](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3583-sorted-gcd-pair-queries) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
