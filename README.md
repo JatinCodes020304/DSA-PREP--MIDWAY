@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-remove-covered-intervals](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Recursion
 |  |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3804-maximize-active-section-with-trade-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
