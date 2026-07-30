@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0383-ransom-note) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0007-reverse-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0172-factorial-trailing-zeroes) |
 | [0233-number-of-digit-one](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0233-number-of-digit-one) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3583-sorted-gcd-pair-queries) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3824-number-of-unique-xor-triplets-i) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0011-container-with-most-water) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
