@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0015-3sum) |
 | [0485-max-consecutive-ones](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0485-max-consecutive-ones) |
 | [1222-remove-covered-intervals](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1234-number-of-paths-with-max-score) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0015-3sum) |
 | [1222-remove-covered-intervals](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0015-3sum) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
