@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0172-factorial-trailing-zeroes) |
 | [0233-number-of-digit-one](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/0233-number-of-digit-one) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/JatinCodes020304/DSA-PREP--MIDWAY/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
